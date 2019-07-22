@@ -1,2 +1,2 @@
 ## tips for my note
-see [deeplearning](https://smart-zhi.github.io/deeplearning/index..html).
+see [deeplearning](https://smart-zhi.github.io/deeplearning/index.html).
